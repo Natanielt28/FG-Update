@@ -1,10 +1,10 @@
 {
   "noticias": [
     {
-      "texto": "Texto de la noticia",
-      "imagen": "https://ejemplo.com/imagen.jpg",
+      "texto": "Nueva Version, Disfrutenlo C:",
+      "imagen": "https://cdn.discordapp.com/attachments/980172603983548457/1061487453044748349/image.png",
       "descripcion": "Descripción de la noticia",
-      "fecha": "2022-01-01"
+      "fecha": "08-01-2023"
     },
     {
       "texto": "Texto de otra noticia",
