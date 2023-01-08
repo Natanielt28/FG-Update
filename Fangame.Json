@@ -1,0 +1,16 @@
+{
+  "noticias": [
+    {
+      "texto": "Texto de la noticia",
+      "imagen": "https://ejemplo.com/imagen.jpg",
+      "descripcion": "Descripción de la noticia",
+      "fecha": "2022-01-01"
+    },
+    {
+      "texto": "Texto de otra noticia",
+      "imagen": "https://ejemplo.com/imagen2.jpg",
+      "descripcion": "Descripción de otra noticia",
+      "fecha": "2022-01-02"
+    }
+  ]
+}
