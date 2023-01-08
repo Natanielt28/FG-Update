@@ -6,7 +6,8 @@
       "descripcion": "Descripción de la noticia",
       "fecha": "08-01-2023",
       "Skin": 1,
-      "visitas": 1
+      "visitas": 1,
+      "Season": "SEASON 1"
     },
     {
       "texto": "Texto de otra noticia",
